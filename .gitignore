@@ -1,0 +1,12 @@
+# Data
+data/
+*.csv
+
+# Environments
+venv/
+.env
+
+# IDE/System
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
